@@ -1,0 +1,5 @@
+pozdrav = "Čauko"
+print(pozdrav)
+
+
+
