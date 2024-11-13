@@ -1,2 +1,0 @@
-gamba = "RULETA"
-print(gamba)
