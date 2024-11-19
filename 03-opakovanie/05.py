@@ -1,5 +1,0 @@
-pozdrav = "Čauko"
-print(pozdrav)
-
-
-
