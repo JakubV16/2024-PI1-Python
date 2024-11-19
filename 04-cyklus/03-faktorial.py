@@ -5,4 +5,4 @@ for i in range(n):
     faktorial = faktorial * (i+1)
     print(i, i+1, faktorial)
 # print(n , "! =",faktorial)
-print(f"{n}!={faktorial}") # {} napíšeme pravý alt+b
+print(f"{n}={faktorial}") # {} napíšeme pravý alt+b
