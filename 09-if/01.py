@@ -31,7 +31,4 @@ for i in range(pocet):
 
 
 
-
-
-
 tkinter.mainloop()

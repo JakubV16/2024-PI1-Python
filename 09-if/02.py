@@ -30,7 +30,8 @@ else:
         farba="red"
     else:
         farba="yellow"
-    canvas.create_oval(y, z, y+10, z+10, fill=farba)
+        
+canvas.create_oval(y, z, y+10, z+10, fill=farba)
 
 
 
