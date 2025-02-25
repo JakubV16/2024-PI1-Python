@@ -16,7 +16,12 @@ def akcia():
             label.config(text=f"Správne výsledok príkladu {priklady} je {vysledok}")
         else:
             label.config(text="Nesprávne!")
-        
+           
+
+
+
+
+
 
 label=tkinter.Label(text=priklady)
 label.pack()
@@ -26,8 +31,6 @@ Textbox.pack()
 
 buttom=tkinter.Button(text="Potvrdzujem", command= akcia)
 buttom.pack()
-
-
 
 
 
