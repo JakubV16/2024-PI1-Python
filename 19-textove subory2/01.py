@@ -4,6 +4,7 @@ import random
 canvas = tkinter.Canvas(width=800, height=800)
 canvas.pack()
 
+file=open('tvary.txt', 'w')
 riadok=[]
 # ftvary=open('tvary.txt', 'w' )
 tvary=random.choice('ORL')
